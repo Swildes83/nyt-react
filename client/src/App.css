@@ -1,0 +1,19 @@
+.App {
+    text-align: center;
+  }
+  
+  .App-header {
+    background-color: rgb(11, 81, 99);
+    padding: 20px;
+    color: white;
+  }
+  
+  .App-intro {
+    font-size: large;
+  }
+  
+  form {
+    border: 0.2rem solid #8c8c96;
+    padding: 1.5rem;
+  }
+  
